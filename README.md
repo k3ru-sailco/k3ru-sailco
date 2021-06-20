@@ -14,7 +14,7 @@ experienced with
 
 skillset includes
 
-- diverse and advanced jsre experience
+- diverse and advanced jsre / sre experience
 - secure webservice development 
 - systems development
 
