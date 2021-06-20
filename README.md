@@ -11,6 +11,12 @@ experienced with
 - c#
 - python
 
+skillset includes
+
+- diverse and advanced jsre experience
+- secure webservice development 
+- systems development
+
 
 
 
