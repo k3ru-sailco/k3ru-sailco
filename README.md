@@ -1,8 +1,9 @@
 # k3ru
 
-learning
+learning / learning about
 
 - rust
+- javascript virtualization
 
 experienced with
 
