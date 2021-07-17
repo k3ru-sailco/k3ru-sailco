@@ -2,11 +2,11 @@
 
 learning / learning about
 
-- rust
 - javascript virtualization
 
 experienced with
 
+- rust
 - go
 - javascript
 - c#
