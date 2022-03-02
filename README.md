@@ -1,11 +1,7 @@
 # k3ru
 
-learning / learning about
-
-- javascript virtualization
-
 experienced with
-
+- virtualization and devirtualization
 - rust
 - go
 - javascript
