@@ -1,13 +1,14 @@
 # k3ru
 
 experienced with
-- go
+- golang
 - javascript
 - python
+- virtualization
+- api security
+- clicking fire hydrants
 
-like reversing everything
-
-like a challenge
+former creator of StormeIO, working in anti-bot and fintech. 
 
 all repos private for a reason.
 
