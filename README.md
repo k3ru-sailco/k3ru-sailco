@@ -8,7 +8,7 @@ experienced with
 - api security
 - clicking fire hydrants
 
-former creator of StormeIO, working in anti-bot and fintech. 
+former creator of StormeIO, now in fintech. working on an anti-bot in free time.
 
 all repos private for a reason.
 
