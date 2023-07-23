@@ -10,5 +10,5 @@ experienced with
 
 former creator of StormeIO, now in fintech. working on an anti-bot in free time.
 
-all repos private for a reason.
+MOST repos private for a reason...
 
