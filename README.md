@@ -1,14 +1,6 @@
 # k3ru
 
-experienced with
-- golang
-- javascript
-- python
-- virtualization
-- api security
-- clicking fire hydrants
+reverser and researcher, working on random compiler projects and messing with anti-bot systems.
 
-former creator of StormeIO, now in fintech. working on an anti-bot in free time.
-
-MOST repos private for a reason...
+open for inquiries strictly related to work. 
 
