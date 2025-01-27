@@ -1,3 +1,3 @@
 # k3ru
 
-Retired.
+This account is no longer active. 
